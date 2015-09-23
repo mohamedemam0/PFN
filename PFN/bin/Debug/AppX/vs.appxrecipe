@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMAM</Machine>
+    <WindowsUser>Mohammed</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>97b8342b-94d9-48fd-8610-1c127263bda5</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>97A5C9B6301086B7FD5BECFAD381B48DA27FACD263C7E70360016089086E68E8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>97b8342b-94d9-48fd-8610-1c127263bda5_1.0.0.0_neutral__ng8fjaqf7gktm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>97b8342b-94d9-48fd-8610-1c127263bda5_ng8fjaqf7gktm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>97b8342b-94d9-48fd-8610-1c127263bda5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohammed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-13T11:07:58.165</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\bin\Debug\PFN.exe">
+      <PackagePath>PFN.exe</PackagePath>
+      <Modified>2015-04-13T11:09:22.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\packages\Microsoft.ApplicationInsights.RuntimeTelemetry.0.13.0-build26067\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd</PackagePath>
+      <Modified>2015-04-13T10:58:21.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\packages\Microsoft.ApplicationInsights.WindowsStore.0.13.0-build26067\lib\win81\Microsoft.ApplicationInsights.Extensibility.Windows.winmd">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.winmd</PackagePath>
+      <Modified>2015-04-13T10:58:23.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\packages\Microsoft.ApplicationInsights.0.13.0-build26067\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.winmd">
+      <PackagePath>Microsoft.ApplicationInsights.winmd</PackagePath>
+      <Modified>2015-04-13T10:58:18.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\packages\Microsoft.Diagnostics.Tracing.EventSource.Redist.1.1.14-beta\build\portable-net45+win8+wpa81\..\..\lib\net45\Microsoft.Diagnostics.Tracing.EventSource.dll">
+      <PackagePath>Microsoft.Diagnostics.Tracing.EventSource.dll</PackagePath>
+      <Modified>2015-04-13T10:58:15.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\obj\Debug\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2015-04-13T11:07:23.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2015-04-13T10:57:42.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2015-01-07T12:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2015-01-07T12:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2015-01-07T12:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <Modified>2015-01-07T12:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2015-01-07T12:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-13T11:07:10.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-13T11:07:10.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\bin\Debug\PFN.xr.xml">
+      <PackagePath>PFN.xr.xml</PackagePath>
+      <Modified>2015-04-13T11:07:10.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\\UnionMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2015-03-25T22:56:45.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\PFN\PFN\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-13T11:07:26.413</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
